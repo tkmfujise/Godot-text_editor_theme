@@ -2,7 +2,7 @@
 Godotのテキストエディタのテーマを自作しました。
 
 参考URL
-https://github.com/godotengine/godot-syntax-themes/tree/4.0-dev
+https://github.com/godotengine/godot-syntax-themes
 
 Macユーザなら
 `Library/Application\ Support/Godot/text_editor_themes` に `MacClassic.tet` を置くと、
