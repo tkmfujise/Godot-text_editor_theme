@@ -14,3 +14,7 @@ Macユーザなら
 
 このような見た目になります。
 <img width="878" alt="image" src="https://user-images.githubusercontent.com/106900036/235710442-8fdb7065-b0ef-4dfa-bd67-3bc21cc8133a.png">
+
+
+Gessetti.tet ならこのような見た目になります。
+<img width="877" alt="image" src="https://github.com/tkmfujise/Godot-text_editor_theme/assets/106900036/836efb75-7207-4cea-a088-b85eba8a00fc">
